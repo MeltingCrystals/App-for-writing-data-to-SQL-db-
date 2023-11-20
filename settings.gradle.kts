@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "sensorAccelerometer"
+rootProject.name = "sensorDataDB"
 include(":app")
  

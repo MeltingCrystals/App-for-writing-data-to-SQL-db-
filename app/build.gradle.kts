@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.sensoraccelerometer"
+    namespace = "com.example.sensorDataDB"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.sensoraccelerometer"
+        applicationId = "com.example.sensorDataDB"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
